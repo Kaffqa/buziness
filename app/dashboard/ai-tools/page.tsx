@@ -156,7 +156,7 @@ export default function AIToolsPage() {
                       onChange={handleFileSelect}
                       className="hidden"
                     />
-                    <Button as="span" variant="outline">
+                    <Button type="button" variant="outline">
                       Browse Files
                     </Button>
                   </label>
